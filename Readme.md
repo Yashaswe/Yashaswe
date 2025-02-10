@@ -1,7 +1,6 @@
 <div>
 
-
-<img align="right" width="50%" src=""/>
+<img align="right" width="30%" src="https://github.com/Yashaswe/Yashaswe/blob/main/header-yash.jpg?raw=true"/>
 <h1 align="center">Hi 👋, I'm Yashaswe</h1>
 <h3 align="center">Aspiring Software Developer | Tech Enthusiast | Problem Solver</h3>
 <br><br>
