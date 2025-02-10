@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22276
-Fork on GitHub
-7219
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Yashaswe Amatya</h1>
 <h3 align="center">Aspiring Software Developer | Tech Enthusiast | Problem Solver</h3>
 
