@@ -1,9 +1,6 @@
 <div>
 
-<img align="right" width="30%" src="https://github.com/Yashaswe/Yashaswe/blob/main/header-yash.jpg?raw=true"/>
-<h3 align="center">Hi 👋, I'm Yashaswe</h3>
-<p align="center">Aspiring Software Developer | Tech Enthusiast | Problem Solver</p>
-<br><br>
+<img src="https://github.com/Yashaswe/Yashaswe/blob/main/github-header.png?raw=true"/>
 <div align = center>
 
 <a href="mailto:amatyayasu@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
